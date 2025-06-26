@@ -1,0 +1,10 @@
+name: ${project.name}
+main: com.sparkybetacreativemini.SparkyBetaCreativeMini
+version: ${project.version}
+api-version: '1.21'
+author: Bogdan
+description: A plot plugin for creative building.
+commands:
+  plot:
+    description: Main command for SparkyBetaCreativeMINI.
+    usage: /<command> [subcommand]
